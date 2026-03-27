@@ -19,7 +19,7 @@ export default function Hero() {
         className="absolute inset-0 w-full h-full"
       >
         <img
-          src="https://cdn.poehali.dev/projects/f7e13df0-e75f-4ae0-86c7-1af4e5378b05/files/ae018115-d330-4b1b-9eef-5e7f48232957.jpg"
+          src="https://cdn.poehali.dev/projects/f7e13df0-e75f-4ae0-86c7-1af4e5378b05/files/77c9e720-2a7d-48eb-866f-52822d1c6201.jpg"
           alt="Байкал — великое озеро"
           className="w-full h-full object-cover"
         />
